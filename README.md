@@ -46,8 +46,9 @@ Given the following Java files in the directory:
 - `task03.java`
 
 When you run the script and provide the following inputs:
-- **Assignment Number**: `01`
-- **User ID**: `12345`
-- **User Name**: `JohnDoe`
+- **Assignment Number**: `03`
+- **User ID**: `24301222`
+- **User Name**: `Gabe Newell`
 
 The output will be:
+Assignment 03_24301222_Gabe Newell.txt
