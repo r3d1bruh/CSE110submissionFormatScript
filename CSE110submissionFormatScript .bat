@@ -4,8 +4,11 @@ setlocal enabledelayedexpansion
 :: Display the warning message
 echo HEY YOU!
 echo YES YOU!
-echo WATCH WITH YOUR EYES!
-echo BEFORE YOU USE THIS SCRIPT, MAKE SURE TO NAME YOUR JAVA FILES IN task##.java FORMAT WHERE ## MEANS 01 to 99 (ANSWER SERIAL)
+echo WATCH THIS WITH YOUR EYES!
+echo BEFORE YOU USE THIS SCRIPT, 
+echo MAKE SURE TO NAME YOUR JAVA FILES IN task##.java FORMAT WHERE ## MEANS 01 to 99 (ANSWER SERIAL)
+echo OTHERWISE IT WONT WORK
+echo also put this script file inside the folder where you kept your assignments together
 pause
 cls
 
