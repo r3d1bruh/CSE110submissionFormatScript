@@ -34,7 +34,7 @@ This repository contains a batch script to automate the process of consolidating
 4. **Check Output**:
    - The consolidated file will be generated with a name like:
      ```
-     Assignment_<AssignmentNumber>_<UserID>_<UserName>.txt
+     Assignment <AssignmentNumber>_<UserID>_<UserName>.txt
      ```
 
 ---
