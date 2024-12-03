@@ -9,6 +9,7 @@ echo BEFORE YOU USE THIS SCRIPT,
 echo MAKE SURE TO NAME YOUR JAVA FILES IN task##.java FORMAT WHERE ## MEANS 01 to 99 (ANSWERS IN SERIAL)
 echo OTHERWISE IT WONT WORK
 echo also put this script file inside the folder where you kept your assignments together
+echo Thank you
 pause
 cls
 
