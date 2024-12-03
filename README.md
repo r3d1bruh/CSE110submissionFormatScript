@@ -22,7 +22,7 @@ This repository contains a batch script to automate the process of consolidating
    - Navigate to the directory containing this script and the Java files.
    - Execute the script by typing:
      ```cmd
-     script-name.bat
+     CSE110submissionFormatScript.bat
      ```
 
 3. **Provide User Input**:
